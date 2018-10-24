@@ -27,7 +27,7 @@
 	<support_level>core</support_level>
  ***/
 
-#include "asterisk.h"
+#include "asterisk.h" //#include" " means include external source code
 
 #include "asterisk/network.h"
 
